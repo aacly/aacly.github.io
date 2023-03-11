@@ -1,1 +1,1 @@
-![GitHub](images\repository-open-graph-template.png)
+![GitHub](images/repository-open-graph-template.png)
